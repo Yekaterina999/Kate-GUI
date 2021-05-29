@@ -1,0 +1,7 @@
+{
+	"name": "KateGUI",
+	"label": "KateGUI",
+	"version": "1.0.0",
+	"description": "Prettier user interface made by Yekaterina",
+	"dependencies": ["0ad>=0.0.24"]
+}
