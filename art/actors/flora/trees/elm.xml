@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="Elm">
+      <props>
+        <prop actor="props/special/eyecandy/tree_elm_base.xml" attachpoint="root"/>
+      </props>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="3" name="tree_1">
+      <mesh>gaia/palm_dead_1.dae</mesh>
+      <textures>
+        <texture file="gaia/tree_elm_01.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>basic_trans_wind.xml</material>
+</actor>

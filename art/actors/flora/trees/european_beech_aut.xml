@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant name="EuropeanBeech-Trunk-a">
+      <mesh>gaia/palm_dead_1.dae</mesh>
+    </variant>
+  </group>
+  <group>
+    <variant name="Trunk-Texture">
+      <textures><texture file="gaia/trunk_beech_a.dds" name="baseTex"/></textures>
+    </variant>
+  </group>
+  <group>
+    <variant name="prop-canopy">
+    </variant>
+  </group>
+  <material>basic_trans_wind.xml</material>
+</actor>

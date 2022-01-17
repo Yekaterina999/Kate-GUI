@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="5" name="baobab-a">
+      <mesh>gaia/palm_dead_1.dae</mesh>
+    </variant>
+  </group>
+  <group>
+    <variant>
+      <textures><texture file="gaia/trunk_baobab.dds" name="baseTex"/></textures>
+    </variant>
+  </group>
+  <material>basic_trans_wind.xml</material>
+</actor>

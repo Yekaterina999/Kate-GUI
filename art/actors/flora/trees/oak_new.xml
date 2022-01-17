@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actor version="1">
+
+  <castshadow/>
+
+  <group>
+    <variant frequency="1" name="trunk-a">
+      <mesh>gaia/palm_dead_1.dae</mesh>
+	  <props><prop actor="flora/trees/oak_new_top_a.xml" attachpoint="root"/></props>
+    </variant>
+	  </group>
+
+  <group>
+    <variant name="trunk-texture">
+      <textures><texture file="gaia/tree_dead.dds" name="baseTex"/></textures>
+    </variant>
+  </group>
+  
+  <material>basic_trans_wind.xml</material>
+
+</actor>

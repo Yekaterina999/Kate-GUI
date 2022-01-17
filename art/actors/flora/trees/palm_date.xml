@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actor version="1">
+
+  <castshadow/>
+
+  <group>
+    <variant frequency="3" name="Date Palm-large">
+      <mesh>gaia/palm_dead_1.dae</mesh>
+    </variant>
+  </group>
+
+  <group>
+    <variant frequency="1" name="Palm Fronds-Green">
+      <textures><texture file="gaia/tree_palmdate_a.dds" name="baseTex"/></textures>
+    </variant>
+    <variant frequency="1" name="Palm Fronds-Brown">
+      <textures><texture file="gaia/tree_palmdate_b.dds" name="baseTex"/></textures>
+    </variant>
+  </group>
+
+  <material>basic_trans_wind.xml</material>
+
+</actor>

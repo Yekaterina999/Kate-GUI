@@ -1,7 +1,10 @@
 {
-	"name": "KateGUI",
-	"label": "KateGUI",
-	"version": "1.0.0",
-	"description": "Prettier user interface made by Yekaterina",
-	"dependencies": ["0ad>=0.0.24"]
+	"name": "autociv",
+	"version": "26.0.1",
+	"label": "Autociv mod 0 A.D. enhancer. Author: nani",
+	"description": "Features: chat civ picker, building placement hotkeys, building selection hotkeys, local mute, chat link opener, etc. Compatible with vanilla.",
+	"ignoreInCompatibilityChecks": true,
+	"dependencies": [
+		"0ad>=0.0.25"
+	]
 }

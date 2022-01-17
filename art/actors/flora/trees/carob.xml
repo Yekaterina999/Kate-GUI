@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="trunk-mesh-a">
+      <mesh>gaia/palm_dead_1.dae</mesh>
+    </variant>
+        <variant frequency="1" name="Texture 02">
+      <textures>
+        <texture file="gaia/poplar_02.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+</actor>

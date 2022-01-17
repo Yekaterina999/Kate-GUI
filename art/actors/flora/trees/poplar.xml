@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="Poplar">
+      <props>
+        <prop actor="props/special/eyecandy/tree_elm_base.xml" attachpoint="root"/>
+      </props>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="Mesh 01">
+      <mesh>gaia/palm_dead_1.dae</mesh>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="Texture 01">
+      <textures>
+        <texture file="gaia/poplar_01.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="Texture 02">
+      <textures>
+        <texture file="gaia/poplar_02.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>basic_trans_wind.xml</material>
+</actor>
