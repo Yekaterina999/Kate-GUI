@@ -8,7 +8,7 @@
   <group>
     <variant frequency="1" name="a">
       <textures>
-        <texture file="gaia/tree_pine_maritime_trunk.png" name="baseTex"/>
+        <texture file="gaia/trunk_baobab.dds" name="baseTex"/>
       </textures>
     </variant>
   </group>

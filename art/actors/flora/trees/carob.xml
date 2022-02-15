@@ -2,13 +2,16 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant frequency="1" name="trunk-mesh-a">
+    <variant name="EuropeanBeech-Trunk-a">
       <mesh>gaia/palm_dead_1.dae</mesh>
     </variant>
-        <variant frequency="1" name="Texture 02">
+  </group>
+  <group>
+    <variant name="Trunk-Texture">
       <textures>
-        <texture file="gaia/poplar_02.png" name="baseTex"/>
+        <texture file="gaia/trunk_beech_a.dds" name="baseTex"/>
       </textures>
     </variant>
   </group>
+  <material>basic_trans_wind.xml</material>
 </actor>
