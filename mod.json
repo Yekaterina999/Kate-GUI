@@ -1,10 +1,10 @@
 {
-	"name": "autociv",
-	"version": "26.0.7",
-	"label": "Autociv mod 0 A.D. enhancer. Author: nani",
+	"name": "KateGUI",
+	"version": "26.0.9",
+	"label": "kateGUI",
 	"description": "Features: chat civ picker, building placement hotkeys, building selection hotkeys, local mute, chat link opener, etc. Compatible with vanilla.",
 	"ignoreInCompatibilityChecks": true,
 	"dependencies": [
-		"0ad>=0.0.25"
+		"0ad>=0.0.23"
 	]
 }
